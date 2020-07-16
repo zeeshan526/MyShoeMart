@@ -13,7 +13,7 @@ function Product() {
 
     return (
         <div>
-       <img  src={image} alt="Loading..." width='400px' height='250px' style={{marginTop:'50px'}}/>
+       <img  src={image} alt="Loading..." width='300px' height='240px' style={{marginTop:'50px'}}/>
             <h1 style={{color:'rgb(102, 0, 102)'}}>Our Best Products</h1>
             <div className="productContainer">
                 {Object.keys(Shoes).map(keyName=>{

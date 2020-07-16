@@ -15,7 +15,7 @@ function Home() {
         endIcon={<Icon>send</Icon>}>
         Shop Now 
        </Button></Link>
-        <div><img  src={image} alt="Loading..." width='400px' height='250px' style={{marginTop:'100px'}}/></div>
+        <div><img  src={image} alt="Loading..." width='320px' height='230px' style={{marginTop:'100px'}}/></div>
        
 	</div>
   );
