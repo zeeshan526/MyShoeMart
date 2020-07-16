@@ -1,16 +1,17 @@
 body{
   text-align: center;
-  
+  justify-content: center;
 }
 .productContainer{
   display: flex;
   flex-wrap: wrap;
-  align-content: center;
+  justify-content: center;
+ 
 }
 .productContainer > .link {
   align-items: center;
   text-align: center;
-  width: 320px;
+  width: 330px;
   box-shadow: 0 0  10px #777774 ;
   margin: 10px;
   text-decoration: none;
@@ -23,7 +24,7 @@ body{
 
 align-content: center;
   text-align: center;
-  width: 320px;
+  width: 330px;
   box-shadow: 0 0  10px #777774 ;
   margin: 10px;
   text-decoration: none;
