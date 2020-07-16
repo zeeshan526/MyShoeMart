@@ -5,11 +5,12 @@ body{
 .productContainer{
   display: flex;
   flex-wrap: wrap;
+  align-content: center;
 }
 .productContainer > .link {
   align-items: center;
   text-align: center;
-  width: 300px;
+  width: 320px;
   box-shadow: 0 0  10px #777774 ;
   margin: 10px;
   text-decoration: none;

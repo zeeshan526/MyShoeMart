@@ -1,5 +1,5 @@
 import React from 'react';
-import image from './images/index.jpg';
+import image from './images/welcome.gif';
 import { Button } from '@material-ui/core';
 import { Link } from 'react-router-dom';
 
